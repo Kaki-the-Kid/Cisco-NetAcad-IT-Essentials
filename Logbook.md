@@ -7,6 +7,7 @@ Når man installerer på Ubuntu er det bedre at downloade debian filen og så k�
 
     sudo apt-get install ./CiscoPacketTracer_811_Ubuntu_64bit.deb
 
+Gdebi har en tendens til at give fejl i forskellige afhængigheder.
 Det tager lidt tid før at ikonet dukketr op i programoversigt
 28/1-2022 Getting Started with Cisco Packet Tracer
   
